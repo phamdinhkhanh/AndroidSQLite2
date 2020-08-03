@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--https://yellowcodebooks.com/2017/07/21/android-bai-23-su-dung-drawable-anh-state-list-cac-anh-drawable-con-lai/-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/colorPrimary" />
+    <corners android:radius="5dp" />
+</shape>
